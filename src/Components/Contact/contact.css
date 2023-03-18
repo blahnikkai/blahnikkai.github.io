@@ -1,0 +1,21 @@
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--clr-light);
+    background-color: var(--clr-dark);
+    padding-bottom: 3em;
+}
+
+a {
+    color: var(--clr-light);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--clr-accent);
+}
+
+.clickable_item:hover {
+    color: var(--clr-accent);
+}

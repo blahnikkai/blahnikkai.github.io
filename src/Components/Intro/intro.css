@@ -1,0 +1,38 @@
+.tile_intro {
+    width: 100%;
+    background-color: var(--clr-main);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2em 1em;
+}
+
+.self_img {
+    width: 200px;
+    aspect-ratio: 1 / 1;
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+    max-width: 1200px;
+}
+
+.intro_section {
+    color: var(--clr-light);
+    padding: 2em 0 0 1em;
+}
+
+.highlight {
+    color: var(--clr-accent);
+}
+/* mobile  */
+@media (max-width: 1000px) {
+    .intro {
+        flex-direction: column;
+    }
+    .intro_section {
+        width: 100%;
+        padding: 0 1em;
+    }
+}

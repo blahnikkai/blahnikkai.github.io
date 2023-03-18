@@ -1,0 +1,24 @@
+#short_projects_tile {
+    background-color: var(--clr-main);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+#see_more_button {
+    padding: 10px;
+    background-color: var(--clr-dark);
+    color: var(--clr-light);
+    border: 1px solid var(--clr-light);
+    border-radius: 5px;
+}
+
+#see_more_button:hover {
+    color: var(--clr-accent);
+    border-color: var(--clr-accent);
+}
+
+#see_more_button:active {
+    opacity: .8;
+}
