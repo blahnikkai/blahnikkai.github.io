@@ -1,6 +1,7 @@
 import React from 'react';
 import {useNavigate} from 'react-router-dom';
 import {Link} from 'react-router-dom';
+import {HashLink} from 'react-router-hash-link';
 import './header.css'
 
 function Header() {
@@ -20,7 +21,7 @@ function Header() {
                         <Link class='nav_link' to='/experience'>Experience</Link>
                     </li>
                     <li class='nav_item' onClick={() => {navigate('/')}}>
-                        <a href='#contact' class='nav_link'>Contact Me</a>
+                        <HashLink class='nav_link' to='/#contact'>Contact Me</HashLink>
                     </li>
                 </u1>
             </nav>
