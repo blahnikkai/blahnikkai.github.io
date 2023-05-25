@@ -1,6 +1,6 @@
 # blahnikkai.github.io
 
-![A yellow capital B in a dark gray square](/public/android-chrome-512x512.png)
+![A yellow capital B in a dark gray square](/public/favicon-32x32.png)
 
 Personal portfolio website made with React
 
