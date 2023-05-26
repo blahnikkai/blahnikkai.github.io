@@ -1,0 +1,30 @@
+[
+    {
+        "img_name": "fiu.png",
+        "alt_txt": "The letters F I and U with a blue fill and gold strokes",
+        "workplace": "FIU Optical Imaging Laboratory",
+        "job_title": "App development intern",
+        "desc": "Developed prototype version of a mobile app that reminds diabetic patients to administer preventative foot care and adjusted app to feedback from research team."
+    },
+    {
+        "img_name": "mycs.png",
+        "alt_txt": "A drawing of Earth behind a mountain with the words \"2023 Youth Climate Summit wrapping around Earth\"",
+        "workplace": "Miami Youth Climate Summit",
+        "job_title": "Website developer",
+        "desc": "Worked in a team to collaboratively develop a functional and responsive website with React that educated viewers on climate change and provided information on attending the 2022 Miami Youth Climate Summit"
+    },
+    {
+        "img_name": "terra.png",
+        "alt_txt": "The word TERRA in a hand-drawn font with leaves and a globe of lines in the background",
+        "workplace": "TERRA Environnmental Research Institute Engineering Club",
+        "job_title": "Head of software",
+        "desc": "Educated and mentored students in the fundamentals of programming."
+    },
+    {
+        "img_name": "ufpt.png",
+        "alt_txt": "Two colored circles with dashed circles around them",
+        "workplace": "University of Florida Programming Team",
+        "job_title": "Division 2 team member",
+        "desc": "Apply knowledge of data structures and algorithms to solve programming problems under time pressure. Communicate in a team of 3 to divide and solve problems collaboratively."
+    }
+]

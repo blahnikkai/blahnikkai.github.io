@@ -1,8 +1,6 @@
-import React from 'react';
-
 import './contact.css';
 
-function Contact() {
+export default function Contact() {
     return (
         <body id='contact'>
             <h1 class='contact_title'>Contact</h1>
@@ -25,5 +23,3 @@ function Contact() {
         </body>
     )
 }
-
-export default Contact;

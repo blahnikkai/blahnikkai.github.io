@@ -1,17 +1,22 @@
-import React from 'react';
-import './experience_page.css';
-import fiu_img from '../../images/experience_imgs/fiu.png';
-import mycs_img from '../../images/experience_imgs/mycs.png';
-import terra_img from '../../images/experience_imgs/terra.png';
-import ufpt_img from '../../images/experience_imgs/ufpt.png';
+import React from 'react'
+import fiu_img from '../../images/experience_imgs/fiu.png'
+import mycs_img from '../../images/experience_imgs/mycs.png'
+import terra_img from '../../images/experience_imgs/terra.png'
+import ufpt_img from '../../images/experience_imgs/ufpt.png'
+import ExperiencePart from './ExperiencePart'
+import experience_list from '../../lists/experience.json'
+import './experience_page.css'
 
-function ExperiencePage() {
+export default function ExperiencePage() {
+    console.log(experience_list)
     return (
         <div id='exp_block'>
             <h1 id='exp_title'>Experience</h1>
             <div class='ornament'></div>
             <div id='exp_grid'>
-                <img className='exp_img' src={fiu_img} alt='The letters F I and U with a blue fill and gold strokes'></img>
+                {experience_list.map((exp) => <ExperiencePart exp={exp}/>)}
+
+                {/* <img className='exp_img' src={fiu_img} alt='The letters F I and U with a blue fill and gold strokes'></img>
                 <div className='exp_part'>FIU Optical Imaging Laboratory</div>
                 <div className='exp_part'>App development intern</div>
                 <div className='exp_part'>Developed prototype version of a mobile app that reminds diabetic patients to administer preventative foot care and adjusted app to feedback from research team</div>
@@ -29,10 +34,8 @@ function ExperiencePage() {
                 <img className='exp_img' src={ufpt_img} alt='Two colored circles with dashed circles around them'></img>
                 <div className='exp_part'>University of Florida Programming Team</div>
                 <div className='exp_part'>Division 2 team member</div>
-                <div className='exp_part'>Apply knowledge of data structures and algorithms to solve programming problems under time pressure. Communicate in a team of 3 to divide and solve problems collaboratively.</div>
+                <div className='exp_part'>Apply knowledge of data structures and algorithms to solve programming problems under time pressure. Communicate in a team of 3 to divide and solve problems collaboratively.</div> */}
             </div>
         </div>
     )
 }
-
-export default ExperiencePage;
