@@ -8,8 +8,8 @@ function HomePage() {
     return (
         <div className='homepage'>
             <Intro/>
-            <ShortExperience/>
             <ShortProjects/>
+            <ShortExperience/>
             <Contact/>
         </div>
     )

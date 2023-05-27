@@ -9,21 +9,21 @@ function Header() {
     return (
         <header>
             <div id='wordmark'>Blahnik.ai</div>
-            <nav class='nav'>
-                <u1 class='nav_list'>
-                    <li class='nav_item'>
-                        <Link class='nav_link' to='/'>Home</Link>
+            <nav className='nav'>
+                <ul className='nav_list'>
+                    <li className='nav_item'>
+                        <Link className='nav_link' to='/'>Home</Link>
                     </li>
-                    <li class='nav_item'>
-                        <Link class='nav_link' to='/projects'>Projects</Link>
+                    <li className='nav_item'>
+                        <Link className='nav_link' to='/projects'>Projects</Link>
                     </li>
-                    <li class='nav_item'>
-                        <Link class='nav_link' to='/experience'>Experience</Link>
+                    <li className='nav_item'>
+                        <Link className='nav_link' to='/experience'>Experience</Link>
                     </li>
-                    <li class='nav_item' onClick={() => {navigate('/')}}>
-                        <HashLink class='nav_link' to='/#contact'>Contact Me</HashLink>
+                    <li className='nav_item' onClick={() => {navigate('/')}}>
+                        <HashLink className='nav_link' to='/#contact'>Contact Me</HashLink>
                     </li>
-                </u1>
+                </ul>
             </nav>
         </header>
     )

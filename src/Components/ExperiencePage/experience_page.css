@@ -1,11 +1,3 @@
-* {
-    color: var(--clr-light);
-}
-
-a {
-    text-decoration: underline;
-}
-
 #exp_block {
     background-color: var(--clr-main);
     padding-top: 3em;
@@ -19,6 +11,7 @@ a {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 3fr;
     padding: 0 7em 5em;
+    grid-auto-flow: row;
 }
 
 #exp_grid * {

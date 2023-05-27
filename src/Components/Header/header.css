@@ -7,6 +7,8 @@
     height: 100%;
     list-style-type: none;
     font-size: 20px;
+    margin: 0;
+    padding: 0;
 }
 
 .nav_link {

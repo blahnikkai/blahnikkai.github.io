@@ -1,11 +1,12 @@
+import LineOrnament from '../LineOrnament';
 import './contact.css';
 
 export default function Contact() {
     return (
-        <body id='contact'>
-            <h1 class='contact_title'>Contact</h1>
-            <div class='ornament'></div>
-            <ul class='contact_lst'>
+        <div id='contact'>
+            <h1 className='contact_title'>Contact</h1>
+            <LineOrnament/>
+            <ul className='contact_lst'>
                 <li>(786)-612-2537</li>
                 <li className='clickable_item'>
                     <a href='mailto: blahnikkai@gmail.com'>blahnikkai@gmail.com</a>
@@ -20,6 +21,6 @@ export default function Contact() {
                     <a href='https://www.linkedin.com/in/kai-blahnik-61138a208/'>LinkedIn</a>
                 </li>
             </ul>
-        </body>
+        </div>
     )
 }
