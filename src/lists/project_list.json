@@ -19,8 +19,8 @@
         "img_name": "binomial_machine.png",
         "alt_txt": "A histogram with one bar filled in solid blue",
         "link": "https://github.com/blahnikkai/binomial-machine/",
-        "title": "Python, Matplotlib, Tkinter",
-        "tech": "Javascript, HTML, CSS",
+        "title": "Binomial Machine",
+        "tech": "Python, Matplotlib, Tkinter",
         "desc": "Create and visualize a binomial distribution by defining a mean and standard deviation, find exact and cumulative probabilities within a binomial distribution, see the normal distribution approximation, and simulate Bernoulli trials."
     },
     {
