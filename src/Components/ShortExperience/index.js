@@ -12,7 +12,7 @@ function Experience() {
             <div className='short_grid'>
                 {experience_list.map((exp, ind) => <ExperiencePart key={ind} exp={exp}/>)}
             </div>
-            <SeeMoreButton/>
+            <SeeMoreButton to='experience'/>
         </div>
     )
 }
