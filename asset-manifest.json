@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b15b7909.css",
-    "main.js": "/static/js/main.a830aa06.js",
+    "main.css": "/static/css/main.efc58c93.css",
+    "main.js": "/static/js/main.fe31c8ab.js",
     "static/media/kai_img.jpg": "/static/media/kai_img.7bfc600c0e98c6cfd4d4.jpg",
     "static/media/ufpt.png": "/static/media/ufpt.73f892dd41a2327f90d8.png",
     "static/media/mycs.png": "/static/media/mycs.6104e84178aaef107943.png",
+    "static/media/codecraft_works.png": "/static/media/codecraft_works.c6ed1a93ba15a213ce75.png",
+    "static/media/osc.png": "/static/media/osc.a34fc22befdd50c8d6ad.png",
     "static/media/fiu.png": "/static/media/fiu.b7f6301afa252d1a4a8d.png",
     "static/media/terra.png": "/static/media/terra.9bd63239d3cb2d32c45c.png",
     "static/media/advanced_maze_solver.png": "/static/media/advanced_maze_solver.c894421775d2cbe8e4fa.png",
     "static/media/pandemic_simulator.png": "/static/media/pandemic_simulator.598bea92f489f88a7000.png",
     "static/media/personal_website.png": "/static/media/personal_website.2f873cdbb2cd5486b0f4.png",
     "index.html": "/index.html",
-    "main.b15b7909.css.map": "/static/css/main.b15b7909.css.map",
-    "main.a830aa06.js.map": "/static/js/main.a830aa06.js.map"
+    "main.efc58c93.css.map": "/static/css/main.efc58c93.css.map",
+    "main.fe31c8ab.js.map": "/static/js/main.fe31c8ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.b15b7909.css",
-    "static/js/main.a830aa06.js"
+    "static/css/main.efc58c93.css",
+    "static/js/main.fe31c8ab.js"
   ]
 }
