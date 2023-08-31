@@ -9,7 +9,7 @@ function Intro() {
                 <img className='self_img' src={kai_img} alt='Kai Blahnik'/>
                 <div className='intro_section'>
                     <h1 className='intro_title'>
-                        Hi, my name is Kai
+                        Hi, my name is&nbsp;<span className='highlight'>Kai</span>
                     </h1>
                     <p className='intro_memo'>
                         I love <span className='highlight'>solving problems</span> with <span className='highlight'>code</span>
