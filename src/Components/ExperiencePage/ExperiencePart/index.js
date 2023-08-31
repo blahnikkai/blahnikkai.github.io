@@ -1,5 +1,5 @@
 export default function ExperiencePart({exp}) {
-    const {img_name, alt_txt, workplace, job_title, desc} = exp
+    const {img_name, alt_txt, workplace, job_title, time_range, desc} = exp
     return (
         <>
             <div>
@@ -7,6 +7,7 @@ export default function ExperiencePart({exp}) {
             </div>
             <div>{workplace}</div>
             <div>{job_title}</div>
+            <div>{time_range}</div>
             <div>{desc}</div>
         </>
     )

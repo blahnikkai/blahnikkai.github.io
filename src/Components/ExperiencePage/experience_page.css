@@ -5,7 +5,7 @@
 
 #exp_grid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 3fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 3fr;
     padding: 0 7em 5em;
     grid-auto-flow: row;
 }
