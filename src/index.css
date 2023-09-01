@@ -20,6 +20,7 @@
 html {
     scroll-behavior: smooth;
     background-color: var(--clr-dark);
+    color: var(--clr-light);
 }
 
 .App {
@@ -44,6 +45,29 @@ img {
     max-width: 100%;
 }
 
+.grid_block {
+    background-color: var(--clr-main);
+    padding-top: 3em;
+}
+
+.grid_page {
+    display: grid;
+    padding: 0 7em 5em;
+    grid-auto-flow: row;
+}
+
+.grid_page * {
+    background-color: var(--clr-dark);
+    margin: 1em 0;
+    padding: 1.5em;
+}
+
+.grid_img {
+    padding: 0;
+    max-height: 8em;
+    margin: auto !important;
+}
+
 @media (max-width: 1000px) {
     :root {
         /* mobile font sizes smaller */
@@ -51,5 +75,18 @@ img {
         --fs-h2: 2.25rem;
         --fs-h3: 1.25rem;
         --fs-body: 1rem;
+    }
+
+    .grid_page {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .grid_page * {
+        margin: 0;
+    }
+
+    .grid_img {
+        height: auto;
     }
 }

@@ -5,10 +5,10 @@ import './projects_page.css'
 
 function ProjectsPage() {
     return (
-        <div id='projects_block'>
-            <h1 id='projects_title'>Projects</h1>
+        <div className='grid_block'>
+            <h1>Projects</h1>
             <LineOrnament/>
-            <div id='projects_grid'>
+            <div id='projects_grid' className='grid_page'>
                 {project_list.map((proj, ind) => <ProjectPart key={ind} proj={proj}/>)}
             </div>
         </div>

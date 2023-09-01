@@ -1,39 +1,7 @@
-* {
-    color: var(--clr-light);
-}
-
 a {
     text-decoration: underline;
 }
 
-#projects_block {
-    background-color: var(--clr-main);
-    padding-top: 3em;
-}
-
-#projects_title {
-    margin: auto;
-}
-
 #projects_grid {
-    display: grid;
     grid-template-columns: 1fr 1fr 1fr 3fr;
-    padding: 0 7em 5em;
-}
-
-#projects_grid * {
-    background-color: var(--clr-dark);
-    margin: 1em 0;
-    padding: 1.5em;
-}
-
-@media (max-width: 1000px) {
-    #projects_grid {
-        display: flex;
-        flex-direction: column;
-    }
-
-    #projects_grid * {
-        margin: 0;
-    }
 }
