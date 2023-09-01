@@ -10,6 +10,7 @@
 .self_img {
     width: 200px;
     aspect-ratio: 1 / 1;
+    margin: auto;
 }
 
 .intro {
