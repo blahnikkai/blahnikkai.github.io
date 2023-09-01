@@ -6,8 +6,8 @@ import './short_experience.css';
 
 function Experience() {
     return (
-        <div id='experience' className='short_tile'>
-            <h1 className='exp_title'>Experience</h1>
+        <div id='short_exp_tile' className='short_tile'>
+            <h1>Experience</h1>
             <LineOrnament/>
             <div className='short_grid'>
                 {experience_list.filter((exp) => exp.on_homepage).map((exp, ind) => <ExperiencePart key={ind} exp={exp}/>)}

@@ -5,3 +5,9 @@
     background-color: var(--clr-light);
     opacity: .75;
 }
+
+@media (max-width: 1000px) {
+    #line_ornament {
+        width: 50%;
+    }
+}
