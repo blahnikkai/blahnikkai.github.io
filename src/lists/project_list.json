@@ -5,6 +5,7 @@
         "link": "https://blahnikkai.github.io/advanced-maze-solver/",
         "title": "Advanced Maze Solver",
         "tech": "Javascript, HTML, CSS",
+        "on_homepage": true,
         "desc": "Find a path in a maze from a startpoint to endpoint with depth-first, breadth-first, and A* search algorithms."
     },
     {
@@ -13,6 +14,7 @@
         "link": "https://blahnikkai.github.io/graph-generator/",
         "title": "Graph Generator",
         "tech": "Javascript, HTML, CSS",
+        "on_homepage": true,
         "desc": "Place points and animate the creation of a convex hull or a minimum spanning tree with weights based on Euclidian distance."
     },
     {
@@ -21,6 +23,7 @@
         "link": "https://github.com/blahnikkai/binomial-machine/",
         "title": "Binomial Machine",
         "tech": "Python, Matplotlib, Tkinter",
+        "on_homepage": true,
         "desc": "Create and visualize a binomial distribution by defining a mean and standard deviation, find exact and cumulative probabilities within a binomial distribution, see the normal distribution approximation, and simulate Bernoulli trials."
     },
     {
@@ -29,6 +32,7 @@
         "link": "https://github.com/blahnikkai/pandemic-simulator/",
         "title": "Pandemic Simulator",
         "tech": "Java, JavaFX",
+        "on_homepage": true,
         "desc": "Simulate a pandemic spreading throughout a population. Physically divide areas by drawing walls."
     },
     {
@@ -37,6 +41,16 @@
         "link": "/",
         "title": "Blahnik.ai",
         "tech": "React, Javascript, HTML, CSS",
+        "on_homepage": false,
         "desc": "Personal portfolio website. See my projects, experience, and contact information."
+    },
+    {
+        "img_name": "optimal_odyssey.png",
+        "alt_txt": "A globe with white dots on it and a red path connecting the dots",
+        "link": "https://optimalodyssey.vercel.app/",
+        "title": "Optimal Odyssey",
+        "tech": "React, Cesium, Javascript, HTML, CSS",
+        "on_homepage": true,
+        "desc": "Animate the solution to the traveling salesperson problem with Held-Karp, which uses bitmask dynamic programming to find an exact soluton. Compare this to a quick approximation found by the nearest neighbor heuristic. Allow users to manually solve the problem themselves."
     }
 ]

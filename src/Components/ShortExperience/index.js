@@ -10,9 +10,14 @@ function Experience() {
             <h1>Experience</h1>
             <LineOrnament/>
             <div className='short_grid'>
-                {experience_list.filter((exp) => exp.on_homepage).map((exp, ind) => <ExperiencePart key={ind} exp={exp}/>)}
+                {experience_list
+                    .filter((exp) => exp.on_homepage)
+                    .map((exp, ind) => 
+                        <ExperiencePart key={ind} exp={exp}/>
+                    )
+                }
             </div>
-            <SeeMoreButton to='experience'/>
+            <SeeMoreButton to='experience' txt='See more experience'/>
         </div>
     )
 }

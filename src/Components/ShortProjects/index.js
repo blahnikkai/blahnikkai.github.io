@@ -10,9 +10,14 @@ function ShortProjects() {
             <h1>Projects</h1>
             <LineOrnament/>
             <div className='short_grid'>
-                {project_list.map((proj, ind) => <ProjectPart key={ind} proj={proj}/>)}
+                {project_list
+                    .filter((project) => project.on_homepage)
+                    .map((proj, ind) => 
+                        <ProjectPart key={ind} proj={proj}/>
+                    )
+                }
             </div>
-            <SeeMoreButton to={'projects'}/>
+            <SeeMoreButton to='projects' txt='See more projects'/>
         </div>
     )
 }
