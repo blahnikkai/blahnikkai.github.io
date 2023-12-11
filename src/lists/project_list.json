@@ -45,6 +45,15 @@
         "desc": "Personal portfolio website. See my projects, experience, and contact information."
     },
     {
+        "img_name": "double_pendulum_simulator.png",
+        "alt_txt": "A double pendulum with blue weights. The lower blue weight ",
+        "link": "https://github.com/blahnikkai/double-pendulum-simulator",
+        "title": "Double Pendulum Simulator",
+        "tech": "C++, SFML",
+        "on_homepage": false,
+        "desc": "Simulate a single and double pendulum using the Euler-Cromer method of numeric integration. Add pendulums with different lengths, masses, and initial angles."
+    },
+    {
         "img_name": "optimal_odyssey.png",
         "alt_txt": "A globe with white dots on it and a red path connecting the dots",
         "link": "https://optimalodyssey.vercel.app/",
