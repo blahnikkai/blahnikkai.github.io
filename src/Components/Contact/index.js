@@ -20,6 +20,9 @@ export default function Contact() {
                 <li className='clickable_item'>
                     <a href='https://www.linkedin.com/in/kai-blahnik-61138a208/'>LinkedIn</a>
                 </li>
+                <li className='clickable_item'>
+                    <a href='https://www.youtube.com/@KaiBlahnik'>YouTube</a>
+                </li>
             </ul>
         </div>
     )
