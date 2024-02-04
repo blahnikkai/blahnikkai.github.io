@@ -2,11 +2,6 @@
     grid-template-columns: 1fr 1fr 1fr 1fr 3fr;
 }
 
-.desc_bullet {
-    margin: 0;
-    padding: 0 0 .5em;
-}
-
 @media (max-width: 1000px) {
     #exp_grid * {
         margin: 0;

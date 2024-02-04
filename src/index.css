@@ -68,6 +68,12 @@ img {
     margin: auto !important;
 }
 
+
+.desc_bullet {
+    margin: 0;
+    padding: 0 0 .2em;
+}
+
 @media (max-width: 1000px) {
     :root {
         /* mobile font sizes smaller */

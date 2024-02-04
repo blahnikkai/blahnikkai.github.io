@@ -9,8 +9,8 @@ export default function ExperiencePart({exp}) {
             <div>{job_title}</div>
             <div>{time_range}</div>
             <ul>
-                {desc.map((value, index) => 
-                    <li className='desc_bullet'>{value}</li>
+                {desc.map((bullet, i) => 
+                    <li key={i} className='desc_bullet'>{bullet}</li>
                 )}
             </ul>
         </>

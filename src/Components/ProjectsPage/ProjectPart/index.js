@@ -7,7 +7,11 @@ export default function index({proj}) {
             </div>
             <a href={link}>{title}</a>
             <div>{tech}</div>
-            <div>{desc}</div>
+            <ul>
+                {desc.map((bullet, i) => 
+                    <li key={i} className='desc_bullet'>{bullet}</li>
+                )}
+            </ul>
         </>
     )
 }
