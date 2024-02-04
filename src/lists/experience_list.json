@@ -1,9 +1,32 @@
 [
     {
+        "img_name": "sec.png",
+        "alt_txt": "A white gator head on a light blue background",
+        "workplace": "UF Software Engineering Club",
+        "job_title": "Workshop Lead",
+        "desc": [
+            "Create, coordinate, and lead weekly technical workshops that teach software engineering skills to undergraduate students."
+        ],
+        "on_homepage": true,
+        "time_range": "December 2023 - Present"
+    },
+    {
+        "img_name": "uf.jpeg",
+        "alt_txt": "A white UF logo on a blue background",
+        "workplace": "UF Programming Fundamentals 2",
+        "job_title": "Infrastructure Teaching Assistant",
+        "desc": [
+            "Develop and maintain a Discord bot used by over 1400 undergraduate students written in Python using the discord.py API to automate announcements, office hours, and assignment extensions, allowing course staff to focus on providing personalized assistance to students.",
+            "Manage a PostgreSQL database to efficiently store and query staff members, office hour timeslots, and other course-related data."
+        ],
+        "on_homepage": true,
+        "time_range": "December 2023 - Present"
+    },
+    {
         "img_name": "flmnh.png",
         "alt_txt": "An F and M on a teal background",
         "workplace": "Florida Museum of Natural History",
-        "job_title": "Research Assistant",
+        "job_title": "AI Research Assistant",
         "desc": [
             "Contribute to research on downscaling climate data to approximately 20x higher resolutions to improve crop yield predictions utilizing deep convolutional neural networks written with Python and PyTorch on the CUDA platform.",
             "Generate visualizations of meteorological data with cartopy to assess the accuracy of various models."
@@ -64,7 +87,7 @@
         "desc": [
             "Educated and mentored high school students in the fundamentals of programming."
         ],
-        "on_homepage": true,
+        "on_homepage": false,
         "time_range": "September 2021 - May 2022"
     },
     {
@@ -75,7 +98,7 @@
         "desc": [
             "Developed prototype version of a mobile app that reminds diabetic patients to administer preventative foot care and adjusted app to feedback from research team."
         ],
-        "on_homepage": true,
+        "on_homepage": false,
         "time_range": "June 2021 - August 2021"
     }
 ]
