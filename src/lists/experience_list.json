@@ -1,16 +1,5 @@
 [
     {
-        "img_name": "sec.png",
-        "alt_txt": "A white gator head on a light blue background",
-        "workplace": "UF Software Engineering Club",
-        "job_title": "Workshop Lead",
-        "desc": [
-            "Create, coordinate, and lead weekly technical workshops that teach software engineering skills to undergraduate students."
-        ],
-        "on_homepage": true,
-        "time_range": "December 2023 - Present"
-    },
-    {
         "img_name": "uf.jpeg",
         "alt_txt": "A white UF logo on a blue background",
         "workplace": "UF Programming Fundamentals 2",
@@ -21,6 +10,17 @@
         ],
         "on_homepage": true,
         "time_range": "December 2023 - Present"
+    },
+    {
+        "img_name": "sec.png",
+        "alt_txt": "A white gator head on a light blue background",
+        "workplace": "UF Software Engineering Club",
+        "job_title": "Workshop Lead",
+        "desc": [
+            "Create, coordinate, and lead weekly technical workshops that teach software engineering skills to undergraduate students."
+        ],
+        "on_homepage": true,
+        "time_range": "September 2023 - Present"
     },
     {
         "img_name": "flmnh.png",
