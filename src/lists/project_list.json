@@ -1,15 +1,52 @@
 [
     {
-        "img_name": "advanced_maze_solver.png",
-        "alt_txt": "A maze with two dots in it",
-        "link": "https://blahnikkai.github.io/advanced-maze-solver/",
-        "title": "Advanced Maze Solver",
+        "img_name": "n_body_simulation.png",
+        "alt_txt": "A",
+        "link": "https://blahnikkai.github.io/n-body-simulation",
+        "title": "N Body Simulation",
         "tech": "Javascript, HTML, CSS",
+        "on_homepage": false,
+        "desc": [
+            "Simulate 100+ bodies affecting each other with gravitation.",
+            "Add and delete bodies to create stable orbits or unstable chaos."
+        ]
+    },
+    {
+        "img_name": "double_pendulum_simulator.png",
+        "alt_txt": "A double pendulum with blue weights.",
+        "link": "https://github.com/blahnikkai/double-pendulum-simulator",
+        "title": "Double Pendulum Simulator",
+        "tech": "C++, SFML",
+        "on_homepage": false,
+        "desc": [
+            "Simulate a single and double pendulum using the Euler-Cromer method of numeric integration.",
+            "Add pendulums with different lengths, masses, and initial angles."
+        ]
+    },
+    {
+        "img_name": "optimal_odyssey.png",
+        "alt_txt": "A globe with white dots on it and a red path connecting the dots",
+        "link": "https://optimalodyssey.vercel.app/",
+        "title": "Optimal Odyssey",
+        "tech": "React, Cesium, Javascript, HTML, CSS",
         "on_homepage": true,
         "desc": [
-            "Find a path in a maze from a startpoint to endpoint with depth-first, breadth-first, and A* search algorithms.",
-            "Generate a maze with a randomized form of Prim's or Kruskal's algorithms",
-            "Create a custom maze and see how the algorithms solve them"
+            "Select cities on a 3D globe or randomly sample some",
+            "Animate the solution to the traveling salesperson problem (TSP) between these cities with Held-Karp, which uses bitmask dynamic programming to find an exact solution.",
+            "Compare the optimal solution to a faster approximation found by the nearest neighbor heuristic.",
+            "Allow users to manually solve the TSP themselves."
+        ]
+    },
+    {
+        "img_name": "personal_website.png",
+        "alt_txt": "A yellow B on a dark gray background",
+        "link": "/",
+        "title": "Blahnik.ai",
+        "tech": "React, Javascript, HTML, CSS",
+        "on_homepage": false,
+        "desc": [
+            "Personal portfolio website.",
+            "See my projects, experience, and contact information."
         ]
     },
     {
@@ -23,6 +60,19 @@
             "Place points and animate the creation of a convex hull with Graham's scan",
             "Visualize how Prim's and Kruskal's algorithms build minimum spanning trees with weights based on Euclidean distance.",
             "Solve the traveling salesperson problem (TSP) with Euclidean edge weights"
+        ]
+    },
+    {
+        "img_name": "advanced_maze_solver.png",
+        "alt_txt": "A maze with two dots in it",
+        "link": "https://blahnikkai.github.io/advanced-maze-solver/",
+        "title": "Advanced Maze Solver",
+        "tech": "Javascript, HTML, CSS",
+        "on_homepage": true,
+        "desc": [
+            "Find a path in a maze from a startpoint to endpoint with depth-first, breadth-first, and A* search algorithms.",
+            "Generate a maze with a randomized form of Prim's or Kruskal's algorithms",
+            "Create a custom maze and see how the algorithms solve them"
         ]
     },
     {
@@ -50,44 +100,6 @@
             "Simulate a pandemic spreading throughout a population.",
             "Observe how manipulating different parameters, such as infection rate and mortality rate, affect the impact of the disease",
             "Physically divide areas by drawing walls."
-        ]
-    },
-    {
-        "img_name": "personal_website.png",
-        "alt_txt": "A yellow B on a dark gray background",
-        "link": "/",
-        "title": "Blahnik.ai",
-        "tech": "React, Javascript, HTML, CSS",
-        "on_homepage": false,
-        "desc": [
-            "Personal portfolio website.",
-            "See my projects, experience, and contact information."
-        ]
-    },
-    {
-        "img_name": "double_pendulum_simulator.png",
-        "alt_txt": "A double pendulum with blue weights. The lower blue weight ",
-        "link": "https://github.com/blahnikkai/double-pendulum-simulator",
-        "title": "Double Pendulum Simulator",
-        "tech": "C++, SFML",
-        "on_homepage": false,
-        "desc": [
-            "Simulate a single and double pendulum using the Euler-Cromer method of numeric integration.",
-            "Add pendulums with different lengths, masses, and initial angles."
-        ]
-    },
-    {
-        "img_name": "optimal_odyssey.png",
-        "alt_txt": "A globe with white dots on it and a red path connecting the dots",
-        "link": "https://optimalodyssey.vercel.app/",
-        "title": "Optimal Odyssey",
-        "tech": "React, Cesium, Javascript, HTML, CSS",
-        "on_homepage": true,
-        "desc": [
-            "Select cities on a 3D globe or randomly sample some",
-            "Animate the solution to the traveling salesperson problem (TSP) between these cities with Held-Karp, which uses bitmask dynamic programming to find an exact solution.",
-            "Compare the optimal solution to a faster approximation found by the nearest neighbor heuristic.",
-            "Allow users to manually solve the TSP themselves."
         ]
     }
 ]
