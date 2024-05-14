@@ -7,7 +7,6 @@ export default function Contact() {
             <h1 className='contact_title'>Contact</h1>
             <LineOrnament/>
             <ul className='contact_lst'>
-                <li>(786)-612-2537</li>
                 <li>blahnikkai@gmail.com</li>
                 <li>blahnikkai@ufl.edu</li>
                 <li className='clickable_item'>
