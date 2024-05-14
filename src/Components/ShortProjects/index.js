@@ -1,5 +1,6 @@
 import LineOrnament from '../LineOrnament'
 import ProjectPart from './ProjectPart'
+import VideoEmbed from './VideoEmbed'
 import SeeMoreButton from '../SeeMoreButton'
 import project_list from '../../lists/project_list.json'
 import './short_projects.css'
@@ -17,6 +18,7 @@ function ShortProjects() {
                     )
                 }
             </div>
+            <VideoEmbed/>
             <SeeMoreButton to='projects' txt='See more projects'/>
         </div>
     )
