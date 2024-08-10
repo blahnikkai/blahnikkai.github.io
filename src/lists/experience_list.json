@@ -25,17 +25,6 @@
         "time_range": "Dec 2023 - May 2024"
     },
     {
-        "img_name": "sec.png",
-        "alt_txt": "A white gator head on a light blue background",
-        "workplace": "UF Software Engineering Club",
-        "job_title": "Workshop Lead",
-        "desc": [
-            "Create, coordinate, and lead weekly technical workshops that teach software engineering skills to undergraduate students."
-        ],
-        "on_homepage": true,
-        "time_range": "Sep 2023 - Present"
-    },
-    {
         "img_name": "flmnh.png",
         "alt_txt": "An F and M on a teal background",
         "workplace": "Florida Museum of Natural History",
@@ -59,29 +48,6 @@
         "time_range": "June 2023 - July 2023"
     },
     {
-        "img_name": "osc.png",
-        "alt_txt": "A drawing of a red and green neon sign of the phrase 'Open Source'",
-        "workplace": "UF Open Source Club",
-        "job_title": "Manim team member",
-        "desc": [
-            "Contribute to manim-data-structures, a plugin for the Manim math animation library to add support for animating data structures."
-        ],
-        "on_homepage": false,
-        "time_range": "Jan 2023 - Dec 2023"
-    },
-    {
-        "img_name": "ufpt.png",
-        "alt_txt": "A white omega with a balloon in the center on a red-brown background",
-        "workplace": "UF Programming Team",
-        "job_title": "Vice President",
-        "desc": [
-            "Silver medalist in 2022 ICPC Southeast USA Regional.",
-            "Apply knowledge of data structures and algorithms to solve programming problems under time pressure while communicating in a team of 3 to solve problems collaboratively."
-        ],
-        "on_homepage": true,
-        "time_range": "Nov 2022 - Present"
-    },
-    {
         "img_name": "mycs.png",
         "alt_txt": "A drawing of Earth behind a mountain with the words \"2023 Youth Climate Summit wrapping around Earth\"",
         "workplace": "Miami Youth Climate Summit",
@@ -91,17 +57,6 @@
         ],
         "on_homepage": false,
         "time_range": "October 2021 - March 2022"
-    },
-    {
-        "img_name": "terra.png",
-        "alt_txt": "The word TERRA in a hand-drawn font with leaves and a globe of lines in the background",
-        "workplace": "TERRA Environmental Research Institute Engineering Club",
-        "job_title": "Head of software",
-        "desc": [
-            "Educated and mentored high school students in the fundamentals of programming."
-        ],
-        "on_homepage": false,
-        "time_range": "September 2021 - May 2022"
     },
     {
         "img_name": "fiu.png",

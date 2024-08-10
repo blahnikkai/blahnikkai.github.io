@@ -1,0 +1,47 @@
+[
+    {
+        "img_name": "ufpt.png",
+        "alt_txt": "A white omega with a balloon in the center on a red-brown background",
+        "organization": "UF Programming Team",
+        "title": "Vice President",
+        "desc": [
+            "Silver medalist in 2022 ICPC Southeast USA Regional.",
+            "Apply knowledge of data structures and algorithms to solve programming problems under time pressure while communicating in a team of 3 to solve problems collaboratively."
+        ],
+        "on_homepage": true,
+        "time_range": "Jan 2024 - Present"
+    },
+    {
+        "img_name": "sec.png",
+        "alt_txt": "A white gator head on a light blue background",
+        "organization": "UF Software Engineering Club",
+        "title": "Workshop Lead",
+        "desc": [
+            "Create, coordinate, and lead weekly technical workshops that teach software engineering skills to undergraduate students."
+        ],
+        "on_homepage": true,
+        "time_range": "Sep 2023 - Present"
+    },
+    {
+        "img_name": "osc.png",
+        "alt_txt": "A drawing of a red and green neon sign of the phrase 'Open Source'",
+        "organization": "UF Open Source Club",
+        "title": "Technical Lead",
+        "desc": [
+            "Contribute to manim-data-structures, a plugin for the Manim math animation library to add support for animating data structures."
+        ],
+        "on_homepage": false,
+        "time_range": "Jan 2023 - Dec 2023"
+    },
+    {
+        "img_name": "terra.png",
+        "alt_txt": "The word TERRA in a hand-drawn font with leaves and a globe of lines in the background",
+        "organization": "TERRA Environmental Research Institute Engineering Club",
+        "title": "Head of software",
+        "desc": [
+            "Educated and mentored high school students in the fundamentals of programming."
+        ],
+        "on_homepage": false,
+        "time_range": "September 2021 - May 2022"
+    }
+]
