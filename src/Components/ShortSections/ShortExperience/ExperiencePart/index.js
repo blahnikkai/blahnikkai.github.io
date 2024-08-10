@@ -5,7 +5,7 @@ export default function ExperiencePart({exp}) {
             <div className='short_item'>
                 <img
                     className='short_img'
-                    src={require(`../../../images/experience_imgs/${img_name}`)}
+                    src={require(`../../../../images/experience_imgs/${img_name}`)}
                     alt={alt_txt}
                 />
             </div>

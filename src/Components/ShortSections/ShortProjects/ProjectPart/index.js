@@ -5,7 +5,7 @@ export default function ProjectPart({proj}) {
             <div className='short_item'>
                 <img
                     className='short_img'
-                    src={require(`../../../images/project_imgs/${img_name}`)}
+                    src={require(`../../../../images/project_imgs/${img_name}`)}
                     alt={alt_txt}
                 />
             </div>

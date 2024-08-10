@@ -1,7 +1,7 @@
 import React from 'react';
 import Intro from './Intro';
-import ShortExperience from './ShortExperience';
-import ShortProjects from './ShortProjects';
+import ShortExperience from './ShortSections/ShortExperience';
+import ShortProjects from './ShortSections/ShortProjects';
 import Contact from './Contact';
 
 function HomePage() {
