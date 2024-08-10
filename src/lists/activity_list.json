@@ -30,7 +30,7 @@
         "desc": [
             "Contributed to manim-data-structures, a plugin for the Manim math animation library to add support for animating data structures."
         ],
-        "on_homepage": false,
+        "on_homepage": true,
         "time_range": "Jan 2023 - Dec 2023"
     },
     {
@@ -41,7 +41,7 @@
         "desc": [
             "Worked in a team to collaboratively develop a functional and responsive website with React that educated viewers on climate change and provided information on attending the 2022 Miami Youth Climate Summit"
         ],
-        "on_homepage": false,
+        "on_homepage": true,
         "time_range": "October 2021 - March 2022"
     }
 ]

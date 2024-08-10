@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 import {HashLink} from 'react-router-hash-link';
 import './header.css'
 
-function Header() {
+export default function Header() {
     const navigate = useNavigate();
     return (
         <header>
@@ -18,10 +18,10 @@ function Header() {
                         <Link className='nav_link' to='/experience'>Experience</Link>
                     </li>
                     <li className='nav_item'>
-                        <Link className='nav_link' to='/projects'>Projects</Link>
+                        <Link className='nav_link' to='/activities'>Activities</Link>
                     </li>
                     <li className='nav_item'>
-                        <Link className='nav_link' to='/activities'>Activities</Link>
+                        <Link className='nav_link' to='/projects'>Projects</Link>
                     </li>
                     <li className='nav_item' onClick={() => {navigate('/')}}>
                         <HashLink className='nav_link' to='/#contact'>Contact Me</HashLink>
@@ -31,5 +31,3 @@ function Header() {
         </header>
     )
 }
-
-export default Header;
