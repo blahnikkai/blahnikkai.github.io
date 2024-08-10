@@ -3,7 +3,7 @@ import ProjectPart from './ProjectPart'
 import project_list from '../../lists/project_list.json'
 import './projects_page.css'
 
-function ProjectsPage() {
+export default function ProjectsPage() {
     return (
         <div className='grid_block'>
             <h1>Projects</h1>
@@ -14,5 +14,3 @@ function ProjectsPage() {
         </div>
     )
 }
-
-export default ProjectsPage;
