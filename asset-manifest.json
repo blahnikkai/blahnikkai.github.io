@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9dd668e.css",
-    "main.js": "/static/js/main.918fb0c9.js",
+    "main.css": "/static/css/main.5193d84b.css",
+    "main.js": "/static/js/main.84853d92.js",
     "static/media/kai_img.jpg": "/static/media/kai_img.7bfc600c0e98c6cfd4d4.jpg",
     "static/media/ufpt.png": "/static/media/ufpt.73f892dd41a2327f90d8.png",
     "static/media/mycs.png": "/static/media/mycs.6104e84178aaef107943.png",
@@ -16,11 +16,11 @@
     "static/media/personal_website.png": "/static/media/personal_website.2f873cdbb2cd5486b0f4.png",
     "static/media/double_pendulum_simulator.png": "/static/media/double_pendulum_simulator.0cbf033952eec595fd2d.png",
     "index.html": "/index.html",
-    "main.c9dd668e.css.map": "/static/css/main.c9dd668e.css.map",
-    "main.918fb0c9.js.map": "/static/js/main.918fb0c9.js.map"
+    "main.5193d84b.css.map": "/static/css/main.5193d84b.css.map",
+    "main.84853d92.js.map": "/static/js/main.84853d92.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9dd668e.css",
-    "static/js/main.918fb0c9.js"
+    "static/css/main.5193d84b.css",
+    "static/js/main.84853d92.js"
   ]
 }
