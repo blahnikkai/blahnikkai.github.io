@@ -5,8 +5,8 @@
         "organization": "UF Programming Team",
         "title": "Vice President",
         "desc": [
-            "Silver medalist in 2022 ICPC Southeast USA Regional.",
-            "Apply knowledge of data structures and algorithms to solve programming problems under time pressure while communicating in a team of 3 to solve problems collaboratively."
+            "Earned silver medal in 2022 and 2023 ICPC (International Collegiate Programming Contest) Regional.",
+            "Organize weekly lectures on applicable data structures and algorithms with implementations in C++, Python, and Java to help team members improve their skills."
         ],
         "on_homepage": true,
         "time_range": "Jan 2024 - Present"
@@ -17,7 +17,7 @@
         "organization": "UF Software Engineering Club",
         "title": "Workshop Lead",
         "desc": [
-            "Create, coordinate, and lead weekly technical workshops that teach software engineering skills to undergraduate students."
+            "Create, coordinate, and lead weekly technical workshops that teach software engineering skills, such as Docker and React, to undergraduate students."
         ],
         "on_homepage": true,
         "time_range": "Sep 2023 - Present"
