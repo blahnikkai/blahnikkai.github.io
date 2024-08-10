@@ -15,10 +15,13 @@ function Header() {
                         <Link className='nav_link' to='/'>Home</Link>
                     </li>
                     <li className='nav_item'>
+                        <Link className='nav_link' to='/experience'>Experience</Link>
+                    </li>
+                    <li className='nav_item'>
                         <Link className='nav_link' to='/projects'>Projects</Link>
                     </li>
                     <li className='nav_item'>
-                        <Link className='nav_link' to='/experience'>Experience</Link>
+                        <Link className='nav_link' to='/activities'>Activities</Link>
                     </li>
                     <li className='nav_item' onClick={() => {navigate('/')}}>
                         <HashLink className='nav_link' to='/#contact'>Contact Me</HashLink>

@@ -5,7 +5,11 @@ export default function ActivityPart(
     return (
         <>  
             <div>
-                <img className='grid_img' src={require(`../../../images/activity_imgs/${img_name}`)} alt={alt_txt}></img>
+                <img 
+                    className='grid_img' 
+                    src={require(`../../../images/activity_imgs/${img_name}`)}
+                    alt={alt_txt}
+                />
             </div>
             <div>{organization}</div>
             <div>{title}</div>

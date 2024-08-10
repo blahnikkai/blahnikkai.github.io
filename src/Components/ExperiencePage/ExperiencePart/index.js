@@ -3,7 +3,11 @@ export default function ExperiencePart({exp}) {
     return (
         <>
             <div>
-                <img className='grid_img' src={require(`../../../images/experience_imgs/${img_name}`)} alt={alt_txt}></img>
+                <img
+                    className='grid_img'
+                    src={require(`../../../images/experience_imgs/${img_name}`)}
+                    alt={alt_txt}
+                />
             </div>
             <div>{workplace}</div>
             <div>{job_title}</div>

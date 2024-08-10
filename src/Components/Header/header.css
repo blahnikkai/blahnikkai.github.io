@@ -3,12 +3,19 @@
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    width: 440px;
     height: 100%;
     list-style-type: none;
     font-size: 20px;
     margin: 0;
     padding: 0;
+}
+
+.nav_item {
+    margin: 0 0.2em;
+}
+
+.nav_item:hover {
+    color: var(--clr-accent);
 }
 
 .nav_link {
@@ -28,10 +35,6 @@ header {
     display: flex;
     justify-content: space-between;
     padding: 1em;
-}
-
-.nav_item:hover {
-    color: var(--clr-accent);
 }
 
 /* mobile styling */
