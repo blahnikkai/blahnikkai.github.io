@@ -1,5 +1,3 @@
-import './video_embed.css'
-
 export default function VideoEmbed() {
     return (
         <div id='video_embed_tile' className='short_tile'>
