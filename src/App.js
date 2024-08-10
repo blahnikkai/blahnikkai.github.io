@@ -3,6 +3,7 @@ import Header from './Components/Header';
 import HomePage from './Components/HomePage';
 import ProjectsPage from './Components/ProjectsPage';
 import ExperiencePage from './Components/ExperiencePage';
+import ActivitiesPage from './Components/ActivitiesPage';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
                 <Route path='/' element={<HomePage/>}/>
                 <Route path='/projects' element={<ProjectsPage/>}/>
                 <Route path='/experience' element={<ExperiencePage/>}/>
+                <Route path='/activities' element={<ActivitiesPage/>}/>
             </Routes>
         </HashRouter>
     </div>

@@ -1,15 +1,15 @@
 import LineOrnament from '../LineOrnament'
-import ActivityPart from './ActivitiesPage'
-import experience_list from '../../lists/experience_list.json'
-import './experience_page.css'
+import ActivityPart from './ActivityPart'
+import activity_list from '../../lists/activity_list.json'
+import './activity_page.css'
 
-export default function ExperiencePage() {
+export default function ActivitiesPage() {
     return (
         <div className='grid_block'>
-            <h1>Experience</h1>
+            <h1>Activities</h1>
             <LineOrnament/>
             <div id='exp_grid' className='grid_page'>
-                {experience_list.map((exp, ind) => <ActivityPart key={ind} exp={exp}/>)}
+                {activity_list.map((activity, ind) => <ActivityPart key={ind} activity={activity}/>)}
             </div>
         </div>
     )

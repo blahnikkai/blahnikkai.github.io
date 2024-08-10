@@ -28,20 +28,20 @@
         "organization": "UF Open Source Club",
         "title": "Technical Lead",
         "desc": [
-            "Contribute to manim-data-structures, a plugin for the Manim math animation library to add support for animating data structures."
+            "Contributed to manim-data-structures, a plugin for the Manim math animation library to add support for animating data structures."
         ],
         "on_homepage": false,
         "time_range": "Jan 2023 - Dec 2023"
     },
     {
-        "img_name": "terra.png",
-        "alt_txt": "The word TERRA in a hand-drawn font with leaves and a globe of lines in the background",
-        "organization": "TERRA Environmental Research Institute Engineering Club",
-        "title": "Head of software",
+        "img_name": "mycs.png",
+        "alt_txt": "A drawing of Earth behind a mountain with the words \"2023 Youth Climate Summit wrapping around Earth\"",
+        "organization": "Miami Youth Climate Summit",
+        "title": "Website developer",
         "desc": [
-            "Educated and mentored high school students in the fundamentals of programming."
+            "Worked in a team to collaboratively develop a functional and responsive website with React that educated viewers on climate change and provided information on attending the 2022 Miami Youth Climate Summit"
         ],
         "on_homepage": false,
-        "time_range": "September 2021 - May 2022"
+        "time_range": "October 2021 - March 2022"
     }
 ]
