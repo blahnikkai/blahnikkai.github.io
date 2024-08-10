@@ -2,14 +2,27 @@
     {
         "img_name": "uf.jpeg",
         "alt_txt": "A white UF logo on a blue background",
-        "workplace": "UF Programming Fundamentals 2",
-        "job_title": "Infrastructure Teaching Assistant",
+        "workplace": "University of Florida",
+        "job_title": "Research Assistant",
         "desc": [
-            "Develop and maintain a Discord bot used by over 1400 undergraduate students written in Python using the discord.py API to automate announcements, office hours, and assignment extensions, allowing course staff to focus on providing personalized assistance to students.",
-            "Manage a PostgreSQL database to efficiently store and query staff members, office hour timeslots, and other course-related data."
+            "Build a retrieval-augmented generation chat feature with Python, PostgreSQL, and Nvidia NIM APIs that leverages LLMs to quickly and accurately answer student questions about course-specific information.",
+            "Utilize GitHub Actions to automate unit testing with pytest and deployment to a Linux server."
         ],
         "on_homepage": true,
-        "time_range": "December 2023 - Present"
+        "time_range": "May 2024 - Present"
+    },
+    {
+        "img_name": "uf.jpeg",
+        "alt_txt": "A white UF logo on a blue background",
+        "workplace": "University of Florida",
+        "job_title": "Infrastructure Teaching Assistant",
+        "desc": [
+            "Maintained a Discord bot with a 92% approval rate used by over 1500 students in 7 UF courses.",
+            "Developed the bot in Python with the discord.py API to automate course processes such as office hours.",
+            "Managed a PostgreSQL database to efficiently store and query course-related data."
+        ],
+        "on_homepage": true,
+        "time_range": "Dec 2023 - May 2024"
     },
     {
         "img_name": "sec.png",
@@ -20,7 +33,7 @@
             "Create, coordinate, and lead weekly technical workshops that teach software engineering skills to undergraduate students."
         ],
         "on_homepage": true,
-        "time_range": "September 2023 - Present"
+        "time_range": "Sep 2023 - Present"
     },
     {
         "img_name": "flmnh.png",
@@ -32,7 +45,7 @@
             "Generate visualizations of meteorological data with cartopy to assess the accuracy of various models."
         ],
         "on_homepage": true,
-        "time_range": "August 2023 - Present"
+        "time_range": "Aug 2023 - Present"
     },
     {
         "img_name": "codecraft_works.png",
@@ -42,7 +55,7 @@
         "desc": [
             "Educated and mentored middle school students in the fundamentals of web and mobile application development."
         ],
-        "on_homepage": true,
+        "on_homepage": false,
         "time_range": "June 2023 - July 2023"
     },
     {
@@ -53,20 +66,20 @@
         "desc": [
             "Contribute to manim-data-structures, a plugin for the Manim math animation library to add support for animating data structures."
         ],
-        "on_homepage": true,
-        "time_range": "January 2023 - December 2023"
+        "on_homepage": false,
+        "time_range": "Jan 2023 - Dec 2023"
     },
     {
         "img_name": "ufpt.png",
         "alt_txt": "A white omega with a balloon in the center on a red-brown background",
         "workplace": "UF Programming Team",
-        "job_title": "Team member",
+        "job_title": "Vice President",
         "desc": [
             "Silver medalist in 2022 ICPC Southeast USA Regional.",
             "Apply knowledge of data structures and algorithms to solve programming problems under time pressure while communicating in a team of 3 to solve problems collaboratively."
         ],
-        "on_homepage": false,
-        "time_range": "November 2022 - Present"
+        "on_homepage": true,
+        "time_range": "Nov 2022 - Present"
     },
     {
         "img_name": "mycs.png",
