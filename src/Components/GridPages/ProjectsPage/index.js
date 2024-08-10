@@ -1,6 +1,6 @@
-import LineOrnament from '../LineOrnament';
+import LineOrnament from '../../LineOrnament';
 import ProjectPart from './ProjectPart'
-import project_list from '../../lists/project_list.json'
+import project_list from '../../../lists/project_list.json'
 import './projects_page.css'
 
 export default function ProjectsPage() {

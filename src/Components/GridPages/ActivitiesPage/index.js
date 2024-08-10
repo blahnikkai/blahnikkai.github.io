@@ -1,6 +1,6 @@
-import LineOrnament from '../LineOrnament'
+import LineOrnament from '../../LineOrnament'
 import ActivityPart from './ActivityPart'
-import activity_list from '../../lists/activity_list.json'
+import activity_list from '../../../lists/activity_list.json'
 import './activity_page.css'
 
 export default function ActivitiesPage() {

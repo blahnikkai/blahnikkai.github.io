@@ -1,9 +1,9 @@
 import {HashRouter, Routes, Route} from 'react-router-dom';
 import Header from './Components/Header';
 import HomePage from './Components/HomePage';
-import ProjectsPage from './Components/ProjectsPage';
-import ExperiencePage from './Components/ExperiencePage';
-import ActivitiesPage from './Components/ActivitiesPage';
+import ProjectsPage from './Components/GridPages/ProjectsPage';
+import ExperiencePage from './Components/GridPages/ExperiencePage';
+import ActivitiesPage from './Components/GridPages/ActivitiesPage';
 
 function App() {
   return (

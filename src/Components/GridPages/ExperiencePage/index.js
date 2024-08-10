@@ -1,6 +1,6 @@
-import LineOrnament from '../LineOrnament'
+import LineOrnament from '../../LineOrnament'
 import ExperiencePart from './ExperiencePart'
-import experience_list from '../../lists/experience_list.json'
+import experience_list from '../../../lists/experience_list.json'
 import './experience_page.css'
 
 export default function ExperiencePage() {
