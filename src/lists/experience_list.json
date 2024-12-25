@@ -34,7 +34,8 @@
             "Generate visualizations of meteorological data with cartopy to assess the accuracy of various models."
         ],
         "on_homepage": true,
-        "time_range": "Aug 2023 - Present"
+        "time_range": "Aug 2023 - Present",
+        "link": "flmnh_downscaling_poster.pdf"
     },
     {
         "img_name": "codecraft_works.png",

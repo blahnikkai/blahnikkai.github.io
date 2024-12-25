@@ -1,5 +1,5 @@
 export default function ExperiencePart({exp}) {
-    const {img_name, alt_txt, workplace, job_title, time_range, desc} = exp
+    const {img_name, alt_txt, workplace, job_title, time_range, desc, link} = exp
     return (
         <>
             <div>
@@ -10,7 +10,14 @@ export default function ExperiencePart({exp}) {
                 />
             </div>
             <div>{workplace}</div>
-            <div>{job_title}</div>
+            {
+                !link &&
+                <div>{job_title}</div>
+            }
+            {
+                link &&
+                <a href={link}>{job_title}</a>
+            }
             <div>{time_range}</div>
             <ul>
                 {desc.map((bullet, i) => 
