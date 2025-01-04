@@ -1,3 +1,7 @@
 #short_projects_tile {
     background-color: var(--clr-dark);
 }
+
+.short_project {
+    margin: 0.5em 0.5em;
+}

@@ -1,7 +1,21 @@
 [
     {
+        "img_name": "elastic_collider.png",
+        "alt_txt": "2 blue circles and 3 red circles are separated by a black vertical wall with a small gap.",
+        "link": "https://blahnikkai.github.io/elastic-collider",
+        "title": "Elastic Collider",
+        "tech": "Typescript, Vite, HTML, CSS",
+        "on_homepage": true,
+        "desc": [
+            "Simulate elastic collisions of 1000+ circular bodies.",
+            "Observe Brownian Motion and the 2nd Law of Thermodynamics.",
+            "Measure and plot the mean kinetic energies of the bodies in different regions over time.",
+            "Draw walls and spawn bodies to create your own experiments."
+        ]
+    },
+    {
         "img_name": "n_body_simulation.png",
-        "alt_txt": "A",
+        "alt_txt": "A small white circle orbits a larger white circle on a black background.",
         "link": "https://blahnikkai.github.io/n-body-simulation",
         "title": "N Body Simulation",
         "tech": "Javascript, HTML, CSS",
@@ -17,7 +31,7 @@
         "link": "https://github.com/blahnikkai/double-pendulum-simulator",
         "title": "Double Pendulum Simulator",
         "tech": "C++, SFML",
-        "on_homepage": false,
+        "on_homepage": true,
         "desc": [
             "Simulate a single and double pendulum using the Euler-Cromer method of numeric integration.",
             "Add pendulums with different lengths, masses, and initial angles."
@@ -55,7 +69,7 @@
         "link": "https://blahnikkai.github.io/graph-generator/",
         "title": "Graph Generator",
         "tech": "Javascript, HTML, CSS",
-        "on_homepage": true,
+        "on_homepage": false,
         "desc": [
             "Place points and animate the creation of a convex hull with Graham's scan",
             "Visualize how Prim's and Kruskal's algorithms build minimum spanning trees with weights based on Euclidean distance.",
