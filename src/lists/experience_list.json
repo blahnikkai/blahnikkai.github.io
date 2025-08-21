@@ -1,28 +1,15 @@
 [
     {
-        "img_name": "uf.jpeg",
-        "alt_txt": "A white UF logo on a blue background",
-        "workplace": "University of Florida",
-        "job_title": "Research Assistant",
+        "img_name": "capital_one.png",
+        "alt_txt": "The Capital One logo on a blue background",
+        "workplace": "Capital One",
+        "job_title": "Software Engineer Intern",
         "desc": [
-            "Build a retrieval-augmented generation chat feature with Python, PostgreSQL, and Nvidia NIM APIs that leverages LLMs to quickly and accurately answer student questions about course-specific information.",
-            "Utilize GitHub Actions to automate unit testing with pytest and deployment to a Linux server."
+            "Developed an LLM summarization tool in Python deployed on AWS for internal use by cybersecurity analysts.",
+            "Reduced manual workload for cyber analysts by an estimated 6,300 - 7,500 hours per year."
         ],
         "on_homepage": true,
-        "time_range": "May 2024 - Present"
-    },
-    {
-        "img_name": "uf.jpeg",
-        "alt_txt": "A white UF logo on a blue background",
-        "workplace": "University of Florida",
-        "job_title": "Infrastructure Teaching Assistant",
-        "desc": [
-            "Maintained a Discord bot with a 92% approval rate used by over 1500 students in 7 UF courses.",
-            "Developed the bot in Python with the discord.py API to automate course processes such as office hours.",
-            "Managed a PostgreSQL database to efficiently store and query course-related data."
-        ],
-        "on_homepage": true,
-        "time_range": "Dec 2023 - May 2024"
+        "time_range": "May 2025 - August 2025"
     },
     {
         "img_name": "flmnh.png",
@@ -38,6 +25,31 @@
         "link": "flmnh_downscaling_poster.pdf"
     },
     {
+        "img_name": "uf.jpeg",
+        "alt_txt": "A white UF logo on a blue background",
+        "workplace": "University of Florida",
+        "job_title": "Research Assistant",
+        "desc": [
+            "Build a retrieval-augmented generation chat feature with Python, PostgreSQL, and Nvidia NIM APIs that leverages LLMs to quickly and accurately answer student questions about course-specific information.",
+            "Utilize GitHub Actions to automate unit testing with pytest and deployment to a Linux server."
+        ],
+        "on_homepage": true,
+        "time_range": "May 2024 - Dec 2024"
+    },
+    {
+        "img_name": "uf.jpeg",
+        "alt_txt": "A white UF logo on a blue background",
+        "workplace": "University of Florida",
+        "job_title": "Infrastructure Teaching Assistant",
+        "desc": [
+            "Maintained a Discord bot with a 92% approval rate used by over 1500 students in 7 UF courses.",
+            "Developed the bot in Python with the discord.py API to automate course processes such as office hours.",
+            "Managed a PostgreSQL database to efficiently store and query course-related data."
+        ],
+        "on_homepage": true,
+        "time_range": "Dec 2023 - May 2024"
+    },
+    {
         "img_name": "codecraft_works.png",
         "alt_txt": "A yellow cartoon robot with gears on its body",
         "workplace": "Codecraft Works",
@@ -45,14 +57,14 @@
         "desc": [
             "Educated and mentored middle school students in the fundamentals of web and mobile application development."
         ],
-        "on_homepage": true,
+        "on_homepage": false,
         "time_range": "June 2023 - July 2023"
     },
     {
         "img_name": "fiu.png",
-        "alt_txt": "The letters F I and U with a blue fill and gold strokes",
+        "alt_txt": "The letters F I and U with a blue fill and gold outline",
         "workplace": "FIU Optical Imaging Laboratory",
-        "job_title": "App development intern",
+        "job_title": "App Development Intern",
         "desc": [
             "Developed prototype version of a mobile app that reminds diabetic patients to administer preventative foot care and adjusted app to feedback from research team."
         ],

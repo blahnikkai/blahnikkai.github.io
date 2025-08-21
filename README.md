@@ -4,5 +4,8 @@ Personal portfolio website made with React
 
 Showcases my projects and experience
 
+## To preview
+`npm start`
+
 ## To update gh-pages
-Run `npm run deploy`
+`npm run deploy`
