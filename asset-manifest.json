@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.bf3fdd74.css",
-    "main.js": "/static/js/main.66ff0225.js",
+    "main.js": "/static/js/main.cd0d3d85.js",
     "static/media/kai_img.jpg": "/static/media/kai_img.7bfc600c0e98c6cfd4d4.jpg",
     "static/media/ufpt.png": "/static/media/ufpt.73f892dd41a2327f90d8.png",
     "static/media/mycs.png": "/static/media/mycs.6104e84178aaef107943.png",
     "static/media/codecraft_works.png": "/static/media/codecraft_works.c6ed1a93ba15a213ce75.png",
+    "static/media/capital_one.png": "/static/media/capital_one.06d6e50005d96a97c39f.png",
     "static/media/osc.png": "/static/media/osc.a34fc22befdd50c8d6ad.png",
     "static/media/sec.png": "/static/media/sec.6d72cca0aabffdc20a2a.png",
     "static/media/optimal_odyssey.png": "/static/media/optimal_odyssey.c2a17c293f6fd3689e64.png",
@@ -18,10 +19,10 @@
     "static/media/double_pendulum_simulator.png": "/static/media/double_pendulum_simulator.0cbf033952eec595fd2d.png",
     "index.html": "/index.html",
     "main.bf3fdd74.css.map": "/static/css/main.bf3fdd74.css.map",
-    "main.66ff0225.js.map": "/static/js/main.66ff0225.js.map"
+    "main.cd0d3d85.js.map": "/static/js/main.cd0d3d85.js.map"
   },
   "entrypoints": [
     "static/css/main.bf3fdd74.css",
-    "static/js/main.66ff0225.js"
+    "static/js/main.cd0d3d85.js"
   ]
 }
