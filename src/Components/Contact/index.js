@@ -8,7 +8,6 @@ export default function Contact() {
             <LineOrnament/>
             <ul className='contact_lst'>
                 <li>blahnikkai@gmail.com</li>
-                <li>blahnikkai@ufl.edu</li>
                 <li className='clickable_item'>
                     <a href='https://www.github.com/blahnikkai'>Github</a>
                 </li>
