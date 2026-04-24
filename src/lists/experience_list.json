@@ -28,8 +28,8 @@
         "workplace": "Florida Museum of Natural History",
         "job_title": "AI Research Assistant",
         "desc": [
-            "Contribute to research on downscaling climate data to approximately 20x higher resolutions to improve crop yield predictions utilizing deep convolutional neural networks written with Python and PyTorch on the CUDA platform.",
-            "Generate visualizations of meteorological data with cartopy to assess the accuracy of various models."
+            "Contributed to research on downscaling climate data to approximately 20x higher resolutions to improve crop yield predictions utilizing deep convolutional neural networks written with Python and PyTorch on the CUDA platform.",
+            "Generated visualizations of meteorological data with cartopy to assess the accuracy of various models."
         ],
         "on_homepage": true,
         "time_range": "Aug 2023 - December 2025",
@@ -41,10 +41,10 @@
         "workplace": "University of Florida",
         "job_title": "Research Assistant",
         "desc": [
-            "Build a retrieval-augmented generation chat feature with Python, PostgreSQL, and Nvidia NIM APIs that leverages LLMs to quickly and accurately answer student questions about course-specific information.",
-            "Utilize GitHub Actions to automate unit testing with pytest and deployment to a Linux server."
+            "Built a retrieval-augmented generation chat feature with Python, PostgreSQL, and Nvidia NIM APIs that leverages LLMs to quickly and accurately answer student questions about course-specific information.",
+            "Utilized GitHub Actions to automate unit testing with pytest and deployment to a Linux server."
         ],
-        "on_homepage": true,
+        "on_homepage": false,
         "time_range": "May 2024 - Dec 2024"
     },
     {
