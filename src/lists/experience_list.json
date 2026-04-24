@@ -1,5 +1,16 @@
 [
     {
+        "img_name": "roblox.png",
+        "alt_txt": "A rotated white square on a blue background",
+        "workplace": "Roblox",
+        "job_title": "Software Engineer",
+        "desc": [
+            "Incoming July 2026"
+        ],
+        "on_homepage": true,
+        "time_range": "July 2026 - Present"
+    },
+    {
         "img_name": "capital_one.png",
         "alt_txt": "The Capital One logo on a blue background",
         "workplace": "Capital One",
